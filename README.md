@@ -16,3 +16,7 @@
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/AlaanD/AppVentaPc.git
+
+## Autor
+
+- **Alán David Dri**  
